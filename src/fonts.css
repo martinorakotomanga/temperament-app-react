@@ -1,0 +1,20 @@
+* {
+  margin: 0; padding: 0;
+}
+@font-face {
+  font-family: 'sirukota';
+  src: url('./assets/fonts/Sirukota.ttf');
+}
+
+@font-face {
+  font-family: 'sofia';
+  src: url('./assets/fonts/Sofia-Regular.ttf');
+}
+
+.sirukota {
+  font-family: 'sirukota';
+}
+
+.sofia {
+  font-family: 'sofia'; 
+}
